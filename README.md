@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
 - exportar databricks
 - Família composta por 7 membros Pai, mãe e 5 filhos
 - ![tCaptura de tela 2025-05-16 073049 ](https://github.com/user-attachments/assets/6af79249-a702-4ab4-b816-597e2f546ab0)
+- Ainda não consegui criar minha conta de estudante na na Microsoft Azure
+- por isso este vai apenas como teste rápido
+- entrarei no forum para pegar o link correto
+- em breve entregarei todos os pojetos como solictados.

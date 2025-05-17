@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 - Início dos estudos
 - data 16/05/2025
 - exportar databricks
+- Família composta por 7 membros Pai, mãe e 5 filhos
+- ![tCaptura de tela 2025-05-16 073049 ](https://github.com/user-attachments/assets/6af79249-a702-4ab4-b816-597e2f546ab0)
